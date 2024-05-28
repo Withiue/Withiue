@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![header]([https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Withiue's%20GitHub&rotate=0))
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
