@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Withiue's%20GitHub&rotate=0)
+
 ## Hi there 👋
 
 - 🔭 I’m currently working on ... 멋쟁이사자처럼
@@ -12,4 +14,3 @@
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Withiue's%20GitHub&rotate=0)
