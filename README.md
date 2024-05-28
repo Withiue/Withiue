@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header]((https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Withiue's%20GitHub&rotate=0))
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Withiue's%20GitHub&rotate=0)
